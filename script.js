@@ -17,7 +17,7 @@ const APIS = {
         const PLATFORM_META = {
             tiktok: {
                 title: 'TikTok Downloader',
-                subtitle: 'Download video TikTok tanpa watermark · HD · MP3',
+                subtitle: 'Download video TikTok tanpa watermark · HD · MP3 Belom bisa Gambar',
                 placeholder: 'Tempel link TikTok di sini...',
                 logo: SVG_TIKTOK,
                 invalidMsg: 'Link tidak valid. Pastikan link berasal dari tiktok.com.'
